@@ -355,6 +355,86 @@ export const DATA = {
       links: [],
       image: "/flexifold.png",
       video: "",
+    },
+    {
+      title: "Green Cape",
+      href: "#",
+      dates: "",
+      active: true,
+      description:
+        "A comprehensive website for a leading uniform manufacturer and workwear supplier based in Qatar.",
+      technologies: [
+        "Next.js",
+        "TailwindCSS",
+        "React",
+      ],
+      links: [],
+      image: "/greencape.png",
+      video: "",
+    },
+    {
+      title: "NAATSCORP",
+      href: "#",
+      dates: "",
+      active: true,
+      description:
+        "A corporate website representing independence and dignity, featuring elegant layouts and professional styling.",
+      technologies: [
+        "WordPress",
+        "Elementor",
+        "Web Design",
+      ],
+      links: [],
+      image: "/naatscrop.png",
+      video: "",
+    },
+    {
+      title: "Naipunya",
+      href: "#",
+      dates: "",
+      active: true,
+      description:
+        "An e-commerce platform for pure, natural, and trusted ayurvedic essentials and cold-pressed oils.",
+      technologies: [
+        "Shopify",
+        "E-commerce",
+        "Web Design",
+      ],
+      links: [],
+      image: "/naipuniyaessentials.png",
+      video: "",
+    },
+    {
+      title: "Hitech MI",
+      href: "#",
+      dates: "",
+      active: true,
+      description:
+        "Corporate platform showcasing 25 years of industry expertise in manufacturing cabinets, enclosures, and kiosks.",
+      technologies: [
+        "React",
+        "TailwindCSS",
+        "Web Design",
+      ],
+      links: [],
+      image: "/hitechmi.png",
+      video: "",
+    },
+    {
+      title: "HeadX Future 2.0",
+      href: "#",
+      dates: "",
+      active: true,
+      description:
+        "A dynamic event and ticketing platform for a futuristic tech conference, featuring speaker profiles and schedule layouts.",
+      technologies: [
+        "Next.js",
+        "Event Management",
+        "React",
+      ],
+      links: [],
+      image: "/headxticket booking.jpeg",
+      video: "",
     }
   ],
   hackathons: [
