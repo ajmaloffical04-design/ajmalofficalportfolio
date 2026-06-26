@@ -435,6 +435,38 @@ export const DATA = {
       links: [],
       image: "/headxticket booking.jpeg",
       video: "",
+    },
+    {
+      title: "Horizon Cargo Solutions",
+      href: "#",
+      dates: "",
+      active: true,
+      description:
+        "Explore the future of cargo logistics. Real-time tracking, intelligent routing, and global freight solutions powered by advanced technology.",
+      technologies: [
+        "React",
+        "TailwindCSS",
+        "Next.js",
+      ],
+      links: [],
+      image: "/horizon.png",
+      video: "",
+    },
+    {
+      title: "Walfet",
+      href: "#",
+      dates: "",
+      active: true,
+      description:
+        "A design and technology studio building digital products from zero to launch. Specializes in modern web development and mini-apps.",
+      technologies: [
+        "React",
+        "Web Design",
+        "UI/UX",
+      ],
+      links: [],
+      image: "/walfetweb.png",
+      video: "",
     }
   ],
   hackathons: [
