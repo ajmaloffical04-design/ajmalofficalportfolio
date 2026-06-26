@@ -275,6 +275,86 @@ export const DATA = {
       links: [],
       image: "/thahaniorganic.png",
       video: "",
+    },
+    {
+      title: "Hillwood",
+      href: "#",
+      dates: "",
+      active: true,
+      description:
+        "India's First Treated Hardwood Brand website. A corporate site showcasing premium treated wood products with a rustic aesthetic.",
+      technologies: [
+        "WordPress",
+        "Elementor",
+        "Web Design",
+      ],
+      links: [],
+      image: "/hillwood.png",
+      video: "",
+    },
+    {
+      title: "Haya Diamonds",
+      href: "#",
+      dates: "",
+      active: true,
+      description:
+        "An elegant e-commerce jewelry store highlighting signature diamond collections and beautiful craftsmanship.",
+      technologies: [
+        "Shopify",
+        "TailwindCSS",
+        "E-commerce",
+      ],
+      links: [],
+      image: "/haya diamonds.png",
+      video: "",
+    },
+    {
+      title: "Prestige Packs",
+      href: "#",
+      dates: "",
+      active: true,
+      description:
+        "Corporate website for UAE's top disposable packaging manufacturer, featuring a B2B product catalog and modern layout.",
+      technologies: [
+        "Next.js",
+        "TailwindCSS",
+        "React",
+      ],
+      links: [],
+      image: "/presitsage packs.png",
+      video: "",
+    },
+    {
+      title: "Aura Interactive",
+      href: "#",
+      dates: "",
+      active: true,
+      description:
+        "A highly interactive, modern website for a future-facing tech company featuring 3D visuals and dynamic scroll animations.",
+      technologies: [
+        "React",
+        "Three.js",
+        "Framer Motion",
+      ],
+      links: [],
+      image: "/aura interactive.png",
+      video: "",
+    },
+    {
+      title: "Flexifold",
+      href: "#",
+      dates: "",
+      active: true,
+      description:
+        "Corporate website for a renowned fabrication company, emphasizing high-quality aesthetic design and modern interior architecture.",
+      technologies: [
+        "WordPress",
+        "Elementor",
+        "Web Design",
+      ],
+      links: [],
+      image: "/flexifold.png",
+      video: "",
     }
   ],
   hackathons: [
