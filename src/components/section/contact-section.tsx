@@ -24,17 +24,26 @@ export default function ContactSection() {
           Get in Touch
         </h2>
         <p className="mx-auto max-w-lg text-muted-foreground text-balance">
-          Want to chat? Just shoot me a dm{" "}
+          Want to connect? Reach out to me directly on{" "}
           <Link
-            href={DATA.contact.social.X.url}
+            href={`https://wa.me/${DATA.contact.tel.replace(/[^0-9]/g, "")}`}
             target="_blank"
             rel="noopener noreferrer"
-            className="text-blue-500 hover:underline underline-offset-4 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 rounded-sm"
+            className="text-green-600 font-medium hover:underline underline-offset-4 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 rounded-sm"
           >
-            with a direct question on twitter
+            WhatsApp
+          </Link>
+          .
+          <br />
+          <Link
+            href={`https://wa.me/${DATA.contact.tel.replace(/[^0-9]/g, "")}`}
+            target="_blank"
+            rel="noopener noreferrer"
+            className="text-green-600 font-medium hover:underline underline-offset-4 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 rounded-sm"
+          >
+            Message me directly
           </Link>{" "}
-          and I&apos;ll respond whenever I can. I will ignore all
-          soliciting.
+          and I&apos;ll respond professionally.
         </p>
       </div>
     </div>
