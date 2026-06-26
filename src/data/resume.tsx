@@ -227,6 +227,54 @@ export const DATA = {
       links: [],
       image: "/regal avenue.png",
       video: "",
+    },
+    {
+      title: "ZTK Tyers",
+      href: "#",
+      dates: "",
+      active: true,
+      description:
+        "An e-commerce platform for high-performance tires and wheels, featuring advanced product filtering and a sleek, modern interface.",
+      technologies: [
+        "Shopify",
+        "E-commerce",
+        "Web Design",
+      ],
+      links: [],
+      image: "/ztktyers.png",
+      video: "",
+    },
+    {
+      title: "Veeserve",
+      href: "#",
+      dates: "",
+      active: true,
+      description:
+        "A comprehensive visa consultancy website offering seamless guidance, appointment booking, and resources for global travel visas.",
+      technologies: [
+        "Next.js",
+        "TailwindCSS",
+        "CMS",
+      ],
+      links: [],
+      image: "/veeserve.png",
+      video: "",
+    },
+    {
+      title: "Thahani Organic",
+      href: "#",
+      dates: "",
+      active: true,
+      description:
+        "A beautiful e-commerce store for pure organic henna and hair care products, designed with an earthy and natural aesthetic.",
+      technologies: [
+        "WordPress",
+        "WooCommerce",
+        "Elementor",
+      ],
+      links: [],
+      image: "/thahaniorganic.png",
+      video: "",
     }
   ],
   hackathons: [
